@@ -69,7 +69,7 @@
 </div><br> 
 
 <!-- Notes -->
-* ## 🚀 **_Notes_**   
+* ## 🔶 **_Notes_**   
 <details>
 <summary> Architecture of TopoFormer【Click to expand】 </summary>
 <pre><code class="language-python">
