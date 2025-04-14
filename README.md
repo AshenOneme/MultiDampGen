@@ -16,7 +16,7 @@
 
       
 [**🔗The damping microstructure dataset**](https://github.com/AshenOneme/MultiDampGen/releases/tag/Dataset)     
-[**🔗The weights of the MultiDampGen**](https://github.com/AshenOneme/SSIDM/releases/tag/Pretrained_weights)
+[**🔗The weights of the MultiDampGen**](https://github.com/AshenOneme/MultiDampGen/releases/tag/Weights)
 
 <div align=center>
   
