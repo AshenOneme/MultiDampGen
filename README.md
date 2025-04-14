@@ -41,8 +41,8 @@
 </div><br>  
 
 <!-- Architecture of MultiDampGen -->
-* ## 🏗️ **_Architecture of MultiDampGen_**          
-  A total of 50,000 sets of microstructural data were extracted, including yield strength, yield displacement, first stiffness, and second-order stiffness. The distribution relationships were subsequently plotted based on *__volume fraction__* and *__physical scale__*.
+* ## 🏦 **_Architecture of MultiDampGen_**          
+  The network architecture of MultiDampGen is detailed as follows, with TopoFormer serving as a Variational Autoencoder (VAE) structure, RSV representing a residual network structure, and LDPM designed as a UNet structure with conditional inputs. Both the VAE and LDPM incorporate self-attention mechanisms to enhance their functionality.
 <div align=center>
   <img width="600" src="Figs/TopoFormer.png"/>
    <div align=center><strong>Fig. 4. Architecture of TopoFormer</strong></div>
