@@ -28,5 +28,13 @@
   The TXT2CAE plugin has been developed based on the ABAQUS-Python API, enabling the generation of three-dimensional finite element models from arbitrary patterns, along with automated mesh generation. Testing has demonstrated successful operation on *__ABAQUS versions 2018 to 2020__*.
 <div align=center>
   <img width="800" src="Figs/TXT2CAE.png"/>
-   <div align=center><strong>Fig. 3. The TXT2CAE GUI</strong></div>
+   <div align=center><strong>Fig. 2. The TXT2CAE GUI</strong></div>
 </div><br>   
+
+<!-- Dataset -->
+* ## 🌆 **_Dataset_**          
+  A total of 50,000 sets of microstructural data were extracted, including yield strength, yield displacement, first stiffness, and second-order stiffness. The distribution relationships were subsequently plotted based on *__volume fraction__* and *__physical scale__*.
+<div align=center>
+  <img width="800" src="Figs/Dataset.png"/>
+   <div align=center><strong>Fig. 3. Distribution of mechanical properties</strong></div>
+</div><br>  
