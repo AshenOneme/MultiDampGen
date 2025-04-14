@@ -53,7 +53,7 @@
 </div><br>  
 
 <!-- Generation process -->
-* ## 🌆 **_Generation process_**          
+* ## 🔬 **_Generation process_**          
   The generation process of multiscale microstructures is illustrated in the figure, with the *__red line__* representing the specified mechanical performance demands. The scales of the microstructures are randomly determined, and the generation results at each timestep are evaluated through finite element analysis. It can be observed that the hysteretic performance, indicated by the *__blue line__*, progressively approaches the target demands.
 <div align=center>
   <img width="1000" src="Figs/GenerationProcess.gif"/>
