@@ -51,7 +51,7 @@
 </div><br> 
 
 <!-- Generation results -->
-* ## 🌆 **_Generation process_**          
+* ## 🚀 **_Generation results_**          
   Regardless of how extreme the specified mechanical properties or scales may be, it is possible to generate microstructures that meet the demands. Additionally, by employing a latent diffusion approach, the generation efficiency has been improved significantly, achieving a square factor increase compared to the Denoising Diffusion Probabilistic Model (DDPM).
 <div align=center>
   <img width="1000" src="Figs/Results.png"/>
