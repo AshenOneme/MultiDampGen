@@ -44,7 +44,7 @@
 
 <!-- Generation process -->
 * ## 🌆 **_Generation process_**          
-  A total of 50,000 sets of microstructural data were extracted, including yield strength, yield displacement, first stiffness, and second-order stiffness. The distribution relationships were subsequently plotted based on *__volume fraction__* and *__physical scale__*.
+  The generation process of multiscale microstructures is illustrated in the figure, with the *__red line__* representing the specified mechanical performance demands. The scales of the microstructures are randomly determined, and the generation results at each timestep are evaluated through finite element analysis. It can be observed that the hysteretic performance, indicated by the *__blue line__*, progressively approaches the target demands.
 <div align=center>
   <img width="1000" src="Figs/GenerationProcess.gif"/>
    <div align=center><strong>Fig. 4. The generation process of multiscale damping microstructures</strong></div>
