@@ -7,6 +7,9 @@
 <!-- 逆向设计 -->
 * ## **_Overview of the workflow_**
 <div align=center>
+  <img width="800" src="Figs/Abstract.png"/>
+</div><br>   
+<div align=center>
   <img width="800" src="Figs/Workflow.png"/>
    <div align=center><strong>Fig. 1. The workflow of MultiDampGen framework</strong></div>
 </div><br>    
