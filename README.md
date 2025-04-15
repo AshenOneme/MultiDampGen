@@ -86,13 +86,13 @@
 +               |--TopoFormer.pt
 +               |--RSV.pt
 +               |--LDPM.pt
-!               |--imgs.txt <<<-------Read---------
+!               |--imgs.txt <<<-------Read--------↰
           |--Dataset                              ▲
                 |--Test                           │
                       |--Dataset_Test.h5          │
                 |--Train                          │
                       |--Dataset_Train.h5         │
-! |--ABAQUS2018  >>>--------Call------------      │
+! |--ABAQUS2018  >>>--------Call-----------↴      │
           |--Documentation                 │      │
           |--SimulationServices            │      │
           |--SolidSQUAD_License_Servers    │      │
