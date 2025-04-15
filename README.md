@@ -85,7 +85,7 @@
 +               |--RSV.pt
 +               |--LDPM.pt
 !               |--imgs.txt <<<-------Read---------
-          |--Dataset                              |
+          |--Dataset                             /|\
                 |--Test                           |
                       |--Dataset_Test.h5          |
                 |--Train                          |
