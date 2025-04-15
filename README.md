@@ -72,8 +72,8 @@
 <!-- Notes -->
 * ## 🔶 **_Notes_**
 
-* The structure of the folder is as follows:
-```
+> *__The structure of the folder is as follows:__*
+```diff
   |--Main folder
           |--MultiDampGen
                 |--Dataset.py
@@ -81,9 +81,9 @@
                 |--Discriminator.py
                 |--UNet.py
                 |--MultiDampGen.py
-                |--TopoFormer.pt
-                |--RSV.pt
-                |--LDPM.pt
++               |--TopoFormer.pt
++               |--RSV.pt
++               |--LDPM.pt
           |--Dataset
                 |--Test
                       |--Dataset_Test.h5
