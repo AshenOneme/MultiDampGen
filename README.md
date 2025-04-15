@@ -86,7 +86,7 @@
 +               |--TopoFormer.pt
 +               |--RSV.pt
 +               |--LDPM.pt
-!               |--imgs.txt <<<-------Read--------↰
+!               |--imgs.txt <<<-------Read---------
           |--Dataset                              ▲
                 |--Test                           │
                       |--Dataset_Test.h5          │
