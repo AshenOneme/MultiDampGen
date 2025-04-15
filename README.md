@@ -87,22 +87,22 @@
 +               |--RSV.pt
 +               |--LDPM.pt
 !               |--imgs.txt <<<-------Read---------
-          |--Dataset                             /|\
-                |--Test                           |
-                      |--Dataset_Test.h5          |
-                |--Train                          |
-                      |--Dataset_Train.h5         |
-! |--ABAQUS2018  >>>--------Call------------      |
-          |--Documentation                 |      |
-          |--SimulationServices            |      |
-          |--SolidSQUAD_License_Servers    |      |
-          |--temp                          |      |
-          |--SIMULIA                       |      |
-                |--Commands                |      |
-                |--CAE                     |      |
-                      |--2018              |      |
-                      |--plugins           |      |
-                            |--2018       \|/     |
+          |--Dataset                              ▲
+                |--Test                           │
+                      |--Dataset_Test.h5          │
+                |--Train                          │
+                      |--Dataset_Train.h5         │
+! |--ABAQUS2018  >>>--------Call------------      │
+          |--Documentation                 │      │
+          |--SimulationServices            │      │
+          |--SolidSQUAD_License_Servers    │      │
+          |--temp                          │      │
+          |--SIMULIA                       │      │
+                |--Commands                │      │
+                |--CAE                     │      │
+                      |--2018              │      │
+                      |--plugins           │      │
+                            |--2018        ▼      │
 +                                  |--ABQ_TXT2CAE_v1
                                           |--Example
                                           |--1.png
