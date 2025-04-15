@@ -90,6 +90,10 @@
                 |--Train
                       |--Dataset_Train.h5
   |--ABAQUS2018
+          |--Documentation
+          |--SimulationServices
+          |--SolidSQUAD_License_Servers
+          |--temp
           |--SIMULIA
                 |--Commands
                 |--CAE
@@ -97,6 +101,15 @@
                       |--plugins
                             |--2018
 +                                  |--ABQ_TXT2CAE_v1
+                                          |--Example
+                                          |--1.png
+                                          |--2.png
+                                          |--ASHEN.png
+                                          |--icon.png
+                                          |--ABQ_TXT2CAE.pyc
+                                          |--aBQ_TXT2CAE_plugin.pyc
+                                          |--aBQ_TXT2CAEDB.pyc
+                                          |--aBQ_TXT2CAEDB.py
 ```
 
 <details>
