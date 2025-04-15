@@ -92,7 +92,7 @@
                       |--Dataset_Test.h5          │
                 |--Train                          │
                       |--Dataset_Train.h5         │
-! |--ABAQUS2018  >>>--------Call-----------↴      │
+! |--ABAQUS2018  >>>--------Call------------      │
           |--Documentation                 │      │
           |--SimulationServices            │      │
           |--SolidSQUAD_License_Servers    │      │
