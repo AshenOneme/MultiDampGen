@@ -89,6 +89,15 @@
                       |--Dataset_Test.h5
                 |--Train
                       |--Dataset_Train.h5
+  |--ABAQUS2018
+          |--SIMULIA
+                |--Commands
+                |--CAE
+                      |--2018
+                      |--plugins
+                                |--2018
++                                      |--ABQ_TXT2CAE
+
 
 ```
 
