@@ -32,6 +32,7 @@
   
 <div align=center>
   <img width="1000" src="Figs/TXT2CAE.png"/>
+    <img width="1000" src="Figs/ASHEN.gif"/>
    <div align=center><strong>Fig. 2. The TXT2CAE GUI</strong></div>
 </div><br>   
 
