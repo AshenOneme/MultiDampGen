@@ -27,7 +27,7 @@
 
 <!-- T2C -->
 * ## 🧱 **_TXT2CAE_**          
-  The TXT2CAE plugin has been developed based on the ABAQUS-Python API, enabling the generation of three-dimensional finite element models from arbitrary patterns, along with automated mesh generation. Testing has demonstrated successful operation on *__ABAQUS versions 2018 to 2020__*.
+  The TXT2CAE plugin has been developed based on the ABAQUS-Python API, enabling the generation of three-dimensional finite element models from arbitrary patterns, along with automated mesh generation. Testing has demonstrated successful operation on *__ABAQUS versions 2018 to 2023__*.
   [**🔗TXT2CAE**](https://github.com/AshenOneme/MultiDampGen/tree/main/ABQ_TXT2CAE_v1)
   
 <div align=center>
