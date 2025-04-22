@@ -1,6 +1,6 @@
 <div align=center>
   
-# MultiDampGen: A Self-Supervised Latent Diffusion Framework for Multiscale Energy-Dissipating Microstructure Generation
+# MultiDampGen: A Self-supervised Latent Diffusion Framework for Multiscale Energy-dissipating Microstructure Generation
   
 </div> 
 
