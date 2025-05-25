@@ -17,7 +17,7 @@
   The multiscale microstructure dataset encompasses a total of *__50,000 samples__*. The dataset utilized in this study, along with the pre-trained weights of **_MultiDampGen_**, can be accessed through the link provided below.      
 
 [**🔗The damping microstructure dataset**](https://github.com/AshenOneme/MultiDampGen/releases/tag/Dataset)     
-[**🔗The weights of the MultiDampGen**](https://github.com/AshenOneme/MultiDampGen/releases/tag/Weights)
+[**🔗The checkpoints of the MultiDampGen**](https://github.com/AshenOneme/MultiDampGen/releases/tag/Weights)
 
 <div align=center>
   
